@@ -1,2 +1,6 @@
 streamlit
-openai
+pandas 
+snowflake-connector-python
+
+snowflake-snowpark-python
+PyPDF2
